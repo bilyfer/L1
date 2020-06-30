@@ -1,6 +1,11 @@
 # Herramientas para desarrollo con C++
 
 ## Instalar MinGW-w64  
+
+### Descargue MinGW-64
+
+![Descargue Aqui](https://drive.google.com/drive/folders/1sb-pCBB3WD7k7LCvp82lPWTPKnfclbop?usp=sharing)
+
 ### Ejecutar el instalador
 Ejecute `mingw-w64-install.exe`  
 Click siguiente  
