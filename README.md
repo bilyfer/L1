@@ -19,8 +19,17 @@ Abra una ventana de comando como ADMINISTRADOR
 * tecla windows -> escriba "cmd"  
 * click derecho "Simbolo de sistema"  
 * Ejecutar como administrador
+
+### Win64
+
 Copie y pegue el siguiente comando para crear el link a la carpeta MinGW en C:\  
 `mklink /J C:\MinGW "C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64"`  
+
+### Win32
+
+Copie y pegue el siguiente comando para crear el link a la carpeta MinGW en C:\  
+`mklink /J C:\MinGW "C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64"`  
+
 ### Agregue MinGW al system PATH   
 Copie y pegue los siguientes comandos
 `set PATH=%PATH%;C:\MinGW\bin`  
