@@ -28,7 +28,9 @@ Copie y pegue el siguiente comando para crear el link a la carpeta MinGW en C:\
 ### Win32
 
 Copie y pegue el siguiente comando para crear el link a la carpeta MinGW en C:\  
-`mklink /J C:\MinGW "C:\Archivos de Programa\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32"`  
+
+`mklink /J C:\MinGW "C:\Program Files\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32"`
+
 
 ### Agregue MinGW al system PATH   
 Copie y pegue los siguientes comandos
