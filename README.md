@@ -7,6 +7,9 @@
 [Descargue Aqui](https://sourceforge.net/projects/mingw-w64/)
 
 En caso que no funcione el instalador anterior, utilice [este](https://github.com/msys2/msys2-installer/releases/download/2022-01-18/msys2-x86_64-20220118.exe)
+Siguiendo estas [instrucciones](https://code.visualstudio.com/docs/cpp/config-mingw)
+
+
 
 ### Ejecutar el instalador
 Ejecute `mingw-w64-install.exe`  
