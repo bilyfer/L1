@@ -4,7 +4,7 @@
 
 ### Descargue MinGW-64
 
-[Descargue Aqui](https://sourceforge.net/projects/mingw-w64/)
+[Descargue Aqui](https://drive.google.com/drive/folders/1sb-pCBB3WD7k7LCvp82lPWTPKnfclbop?usp=sharing)
 
 En caso que no funcione el instalador anterior, utilice [este](https://github.com/msys2/msys2-installer/releases/download/2022-01-18/msys2-x86_64-20220118.exe)
 Siguiendo estas [instrucciones](https://code.visualstudio.com/docs/cpp/config-mingw)
